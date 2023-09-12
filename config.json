@@ -3,7 +3,7 @@
 "icon": "nds.png",
 "launch": "launch.sh",
 "rompath": "../../Roms/NDS",
-"imgpath": "../../Imgs/NDS",
+"imgpath": "../../Roms/NDS/Imgs",
 "gamelist": "../../Roms/NDS/miyoogamelist.xml",
 "useswap": 1,
 "shortname": 0,
